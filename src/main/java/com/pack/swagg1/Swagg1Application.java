@@ -27,8 +27,7 @@ public class Swagg1Application implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		Bank l = new Bank(1,"andhrabank");
-		bankr.save(l);
+		
 	}
 	
 	
